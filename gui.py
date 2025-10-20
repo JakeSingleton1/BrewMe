@@ -1,5 +1,4 @@
-#BrewMe Batch & Inventory Optimizer - gui.py
-#Implements the tkinter GUI and handles user interaction.
+#Implements tkinter GUI and handles user interaction.
 
 
 import tkinter as tk

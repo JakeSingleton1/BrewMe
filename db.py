@@ -1,5 +1,4 @@
-#BrewMe Batch & Inventory Optimizer - db.py
-#Handles SQLite setup, table creation, and core SQL operations.
+#Handles SQLite setup, table creation, and SQL functions
 
 
 import sqlite3

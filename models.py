@@ -1,4 +1,4 @@
-#BrewMe Batch & Inventory Optimizer - models.py
+#BrewMe Brewery Batch and Inventory Management System - models.py
 #Defines the core classes for ingredients and recipes.
 
 

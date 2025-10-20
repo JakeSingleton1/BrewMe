@@ -1,4 +1,4 @@
-#BrewMe Batch & Inventory Optimizer - services.py
+#BrewMe Brewery Inventory Management System - services.py
 #Contains core business logic, calculations, and the recursive function.
 
 

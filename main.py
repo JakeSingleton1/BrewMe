@@ -1,5 +1,5 @@
-#BrewMe Batch & Inventory Optimizer - main.py
-#Entry point for the application. Initializes DB and starts the GUI.
+#BrewMe Brewery Batch and Inventory Management System
+#Entry point for the app. Initializes DB and starts the GUI.
 
 import db
 import gui
