@@ -2,7 +2,7 @@ Jacob Singleton - A0506849
 # BrewMe Brewery Batch & Inventory System
 ## Run main.py to run the app
 ### The application will automatically create the data/brewme.db file and the necessary tables if they do not exist.
-###Project Structure
+### Project Structure
 BrewMe
 ├── data/
 │   └── brewme.db  (Created automatically on first run)
