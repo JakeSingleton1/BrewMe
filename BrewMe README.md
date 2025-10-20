@@ -58,5 +58,6 @@ Core Logic: Scaling calculations are performed in services.py . Used common meas
 Added a feature to export the entire brewing batch log to a CSV file for reports. Included a batch number, recipe name, volume, cost and the date of the brew.
 
 
-## 7. Recursive Function: The calculate_recipe_cost function in services.py uses recursion to calculate the total estimated cost of all ingredients in a scaled batch.
+## 7. Recursive Function
+The calculate_recipe_cost function in services.py uses recursion to calculate the total estimated cost of all ingredients in a scaled batch.
 
