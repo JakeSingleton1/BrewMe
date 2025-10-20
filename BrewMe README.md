@@ -4,7 +4,7 @@ Jacob Singleton - A0506849
 ### Project Structure
 #### BrewMe
 #### ├── data/
-#### │   └── brewme.db  (Created automatically on first run)
+#### │    └── brewme.db  (Created automatically on first run)
 #### ├── db.py
 #### ├── gui.py
 #### ├── main.py
