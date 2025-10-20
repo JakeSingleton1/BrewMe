@@ -11,7 +11,7 @@ Jacob Singleton - A0506849
 #### ├── models.py
 #### └── services.py
 
-1. Business Concept
+## 1. Business Concept
 
 Company: Lone Man Mountain Brewing (My place of work)
 
