@@ -21,7 +21,7 @@ Problem Solved: The software automates proportional scaling of beer recipes for 
 
 
 
-2. Classes & Inheritance 
+## 2. Classes & Inheritance 
 
 Superclass: Ingredient (models common attributes like name and cost)
 
@@ -30,7 +30,7 @@ Subclasses: Fermentable (inherits from Ingredient, specialized for malt color/SR
 Primary Class: Recipe (aggregates ingredients and provides methods for scaling).
 
 
-3. Database Integration (SQLite3) 
+## 3. Database Integration (SQLite3) 
 
 Database File: data/brewme.db (automatically created/opened on startup).
 
@@ -43,20 +43,20 @@ Recipe_Details: A link table defining quantities of ingredients per recipe.
 Batch_Log: Tracks historical brews.
 
 
-4. GUI (tkinter) 
+## 4. GUI (tkinter) 
 
 Simple GUI (gui.py) using tkinter widgets (Label, Entry, Button, Frame, StringVar).
 
 Graceful error handling with try-excepts
 
-5. Business Logic & Advanced Function
+## 5. Business Logic & Advanced Function
 
 Core Logic: Scaling calculations are performed in services.py . Used common measurements used by brewers in the united states such as BBL or beer barrels, which is equivalent to 31 gallons, as well as gallons , pounds and ounces.
 
-6. File I/O 
+## 6. File I/O 
 
 Added a feature to export the entire brewing batch log to a CSV file for reports. Included a batch number, recipe name, volume, cost and the date of the brew.
 
 
-7. Recursive Function: The calculate_recipe_cost function in services.py uses recursion to calculate the total estimated cost of all ingredients in a scaled batch.
+## 7. Recursive Function: The calculate_recipe_cost function in services.py uses recursion to calculate the total estimated cost of all ingredients in a scaled batch.
 
