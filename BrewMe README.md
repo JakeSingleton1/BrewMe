@@ -3,14 +3,14 @@ Jacob Singleton - A0506849
 ## Run main.py to run the app
 ### The application will automatically create the data/brewme.db file and the necessary tables if they do not exist.
 ### Project Structure
-BrewMe
-├── data/
-│   └── brewme.db  (Created automatically on first run)
-├── db.py
-├── gui.py
-├── main.py
-├── models.py
-└── services.py
+### BrewMe
+### ├── data/
+### │   └── brewme.db  (Created automatically on first run)
+### ├── db.py
+### ├── gui.py
+### ├── main.py
+### ├── models.py
+### └── services.py
 
 1. Business Concept
 
